@@ -26,8 +26,7 @@ The website must consist of 7 pages total, including:
 
   Contains all of the visualizations on the same page so we can easily visually compare them.
   Uses a Bootstrap grid for the visualizations.
-
-The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
+  The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
 
 * A "Data" page that:
 
